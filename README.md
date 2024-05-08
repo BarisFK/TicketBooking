@@ -1,4 +1,4 @@
-# Online Bus Ticket Booking Platform
+# About TicketBooking
 
 This project is developed on top of a ready-made template provided by Codeastro, aimed at creating an online bus ticket sales platform to streamline the process of purchasing bus tickets for users. Utilizing PHP and Codeigniter, it offers a practical environment for honing skills in web development.
 
